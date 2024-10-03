@@ -45,6 +45,7 @@ h1{
     position: absolute;
     padding-right: 20%;
     font-size: 8rem;
+    text-shadow: 4px 4px black;
     color: rgb(255, 230, 4);
     font-family: fantasy;
     
