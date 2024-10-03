@@ -43,10 +43,10 @@
 
 h1{
     position: absolute;
-    padding-right: 10%;
+    padding-right: 20%;
     font-size: 8rem;
     color: rgb(255, 230, 4);
-    font-family: bebas;
+    font-family: fantasy;
     
 }
 
@@ -84,7 +84,7 @@ section{
     left: 45%;
     transform: translateX(-50%) translateZ(50%);
     color: black;
-    font-family: bebas;
+    font-family: fantasy;
     font-size: 3.5rem;
     font-weight: 600;
     
