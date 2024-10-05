@@ -43,10 +43,10 @@
 
 h1{
     position: absolute;
-    padding-right: 50%;
-    font-size: 7rem;
-    text-shadow: 4px 4px white;
-    color: black;
+    padding-right: 20%;
+    font-size: 8rem;
+    text-shadow: 5px 5px black;
+    color: rgb(255, 238, 0);
     font-family: fantasy;
     
 }
@@ -79,10 +79,10 @@ section{
 
 .desc{
     position: absolute;
-    background-color: white;
+    
     padding: 0.5rem 2.5rem;
     top: 50%;
-    left: 45%;
+    left: 44%;
     transform: translateX(-50%) translateZ(50%);
     color: black;
     font-family: fantasy;
